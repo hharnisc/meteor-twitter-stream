@@ -5,6 +5,7 @@ body, html {
 	padding: 0;
 	color:#333;
 	font-family: 'Open Sans', sans-serif;
+	overflow: hidden;
 }
 a {
 	color:#4099FF;
