@@ -11,7 +11,11 @@ body, html {
 a {
 	color:#4099FF;
 }
-
+.twitter-follow-button {
+	position: absolute;
+	left: 10px;
+	bottom: 10px;
+}
 .tweet {
 	position: absolute;
 	width:500px; 
