@@ -14,7 +14,7 @@ if (Meteor.isClient) {
         + "</div></div>");
     var that = this;
     setTimeout(function() {
-      $("#" + that.data._id).css({left: "-501px"});
+      $("#" + that.data._id).css({left: "-100%"});
     }, 100);
   };
 }
