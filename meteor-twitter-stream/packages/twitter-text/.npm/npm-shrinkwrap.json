@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "twitter-text": {
+      "version": "1.6.1"
+    }
+  }
+}
